@@ -7,7 +7,7 @@
 
 ##
 
-### ✨ [Demo](https://mosaif00.github.io/30-Days-JavaScript-Challenge/03-CSS-Variables/index.html)
+### ✨ [Click for Demo](https://cenacrharsh.github.io/JS-30-DAY-3/)
 
 ##
 
