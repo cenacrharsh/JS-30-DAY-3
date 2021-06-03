@@ -16,11 +16,7 @@
 ## Features & Usage
 
 ```sh
-- You can control the spacing,blur and base color and image
-- Change CSS proprieties via JS
-- handle the suffix `px` using Dataset
+- You can control the spacing,blur and base color and image using CSS variables.
+- How Change CSS proprieties via JS.
+- Use data attribute and dataset.
 ```
-
-## 🤝 Contributing
-
-Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/MoSaif00/30-Days-JavaScript-Challenge/issues).
