@@ -17,6 +17,6 @@
 
 ```sh
 - You can control the spacing,blur and base color and image using CSS variables.
-- How Change CSS proprieties via JS.
+- How to Change CSS variables via JS.
 - Use data attribute and dataset.
 ```
